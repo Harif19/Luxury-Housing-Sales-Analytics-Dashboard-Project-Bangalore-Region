@@ -97,6 +97,16 @@ Interactive Dashboard + DAX Insights
 | Geographical Insights | Map – Micro Market with bubbles by Bookings |
 | Top Performers | Top 5 Builders + Dynamic Text Insights |
 
+## Dashboard -Demo
+
+<img width="1871" height="843" alt="Power Bi dashboard" src="https://github.com/user-attachments/assets/c66959e6-49de-4d36-a81e-7a7304cf111d" />
+
+<img width="1907" height="966" alt="Power Bi dashboard P2" src="https://github.com/user-attachments/assets/b4875f2e-7fdb-469e-bd4e-9b7babfc60d4" />
+
+<img width="1915" height="1025" alt="Power Bi dashboard P3" src="https://github.com/user-attachments/assets/251fd65d-1dff-4991-8281-06e5a981c037" />
+
+
+
 ### 🔹 Dynamic DAX Insight 
 
 
